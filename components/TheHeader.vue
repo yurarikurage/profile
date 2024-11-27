@@ -3,12 +3,12 @@
 
 <template>
     <header>
-        <h1><a href="http://localhost:3000/"><img class="logo" src="../assets/images/25327386.png" alt="logo "></a></h1>
+        <h1><a href="#"><img class="logo" src="../assets/images/25327386.png" alt="logo "></a></h1>
         <ul id="nav">
-            <li><a href="http://localhost:3000/#webComp">Webサイト</a></li>
-            <li><a href="http://localhost:3000/#bannerComp">バナー</a></li>
-            <li><a href="http://localhost:3000/#hobbyComp">その他</a></li>
-            <li><a href="http://localhost:3000/#meComp">自分について</a></li>
+            <li><a href="#webComp">Webサイト</a></li>
+            <li><a href="#bannerComp">バナー</a></li>
+            <li><a href="#hobbyComp">その他</a></li>
+            <li><a href="#meComp">自分について</a></li>
         </ul>
     </header>
 </template>
